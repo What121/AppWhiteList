@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ApplicationList</string>
+    <string name="add">addToList</string>
+    <string name="fill_package">"Fill in the package name</string>
+</resources>
